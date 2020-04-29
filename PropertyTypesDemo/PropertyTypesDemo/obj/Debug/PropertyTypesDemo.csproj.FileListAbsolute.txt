@@ -1,0 +1,7 @@
+C:\Users\despar\source\GitHub\CSF-Module04Lesson04\PropertyTypesDemo\PropertyTypesDemo\bin\Debug\PropertyTypesDemo.exe.config
+C:\Users\despar\source\GitHub\CSF-Module04Lesson04\PropertyTypesDemo\PropertyTypesDemo\bin\Debug\PropertyTypesDemo.exe
+C:\Users\despar\source\GitHub\CSF-Module04Lesson04\PropertyTypesDemo\PropertyTypesDemo\bin\Debug\PropertyTypesDemo.pdb
+C:\Users\despar\source\GitHub\CSF-Module04Lesson04\PropertyTypesDemo\PropertyTypesDemo\obj\Debug\PropertyTypesDemo.csprojAssemblyReference.cache
+C:\Users\despar\source\GitHub\CSF-Module04Lesson04\PropertyTypesDemo\PropertyTypesDemo\obj\Debug\PropertyTypesDemo.csproj.CoreCompileInputs.cache
+C:\Users\despar\source\GitHub\CSF-Module04Lesson04\PropertyTypesDemo\PropertyTypesDemo\obj\Debug\PropertyTypesDemo.exe
+C:\Users\despar\source\GitHub\CSF-Module04Lesson04\PropertyTypesDemo\PropertyTypesDemo\obj\Debug\PropertyTypesDemo.pdb
